@@ -1,2 +1,2 @@
-# Coffee-Shop-Manager-C-
+# Coffee-Shop-Manager
 Coffee Shop Manager C#
